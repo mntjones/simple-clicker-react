@@ -1,0 +1,26 @@
+.app {
+  justify-content: center;
+  border: solid 1px;
+  margin: 30px;
+  padding: 20px;
+  background: lightgrey;
+  position: fixed;
+  top: 10%;
+  left: 10%;
+}
+
+.header, .clicker {
+  display: block;
+  text-align: center;
+  text-shadow: -1px 0 black, 
+    0 1px black, 
+    1px 0 black, 
+    0 -1px black;
+}
+
+button {
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
