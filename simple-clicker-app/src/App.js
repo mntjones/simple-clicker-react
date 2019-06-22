@@ -8,10 +8,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          React Clicker
+          Simple React Clicker
         </p>
       </header>
-      <body> < Clicker /> </body>
+
+      <div className="Clicker"> < Clicker /> </div>
     </div>
   );
 }
